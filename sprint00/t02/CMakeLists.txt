@@ -1,0 +1,1 @@
+add_executable(walletManager walletManager.cpp main.cpp)

@@ -1,0 +1,1 @@
+add_executable(automaton main.cpp)
